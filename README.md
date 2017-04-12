@@ -1,2 +1,2 @@
 # Tank_Battle_Project_-Test-
-Learning Project for basic C++ in the unreal engine
+A Tank based head-to-head project for learning basic C++ in the unreal engine
